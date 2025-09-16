@@ -1,4 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
+  "name": "Ubuntu 20.04",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu-20.04"
 }
